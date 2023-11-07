@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning: **[C++ and Python]**
-- 🔭 I'm working on: **[Shanghai]**
+
 - ⚡
 
 
